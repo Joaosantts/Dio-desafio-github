@@ -5,7 +5,7 @@ Desafio de projeto
 ## links uteis
 [Link para Download](https://git-scm.com/download/win)
 
-[Sintax basic Markidown](https://www.markdownguide.org/basic-syntax/
+[Sintax basic Markidown](https://www.markdownguide.org/basic-syntax/)
 
 - ### Tutorial
 
